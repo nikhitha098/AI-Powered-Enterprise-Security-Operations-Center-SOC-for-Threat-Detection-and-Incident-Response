@@ -1,0 +1,8 @@
+{
+  "185.220.138.32": {"malicious": true, "abuse_score": 92, "category": "brute_force_source", "notes": "Repeated credential stuffing reported by 3 community feeds"},
+  "185.220.179.109": {"malicious": true, "abuse_score": 78, "category": "scanning", "notes": "Known scanning infrastructure"},
+  "185.220.189.27": {"malicious": true, "abuse_score": 85, "category": "brute_force_source", "notes": "Associated with SSH/RDP brute force campaigns"},
+  "185.220.213.161": {"malicious": true, "abuse_score": 66, "category": "scanning", "notes": "Mass port scanning activity reported"},
+  "185.220.51.184": {"malicious": true, "abuse_score": 74, "category": "c2", "notes": "Listed on a public C2 IP feed"},
+  "185.220.72.117": {"malicious": false, "abuse_score": 12, "category": "unknown", "notes": "Low-confidence, isolated report only"}
+}

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AI-SOC Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0f1115; --card: #171a21; --border: #262a33; --text: #e6e8ec;
+    --muted: #9aa2af; --high: #e5484d; --medium: #f5a524; --low: #4c9aff;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--text); }
+  header { padding:20px 28px; border-bottom:1px solid var(--border); }
+  header h1 { margin:0; font-size:20px; font-weight:600; }
+  header p { margin:4px 0 0; color:var(--muted); font-size:13px; }
+  .grid { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; padding:20px 28px; }
+  .card { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:16px; }
+  .card h3 { margin:0 0 6px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); font-weight:600; }
+  .card .big { font-size:28px; font-weight:700; }
+  .section { padding:0 28px 28px; }
+  .panel { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:18px; margin-bottom:20px; }
+  .panel h2 { margin:0 0 14px; font-size:15px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--border); }
+  th { color:var(--muted); font-weight:600; font-size:11px; text-transform:uppercase; }
+  .sev { padding:2px 8px; border-radius:20px; font-size:11px; font-weight:600; }
+  .sev-high { background:rgba(229,72,77,.15); color:var(--high); }
+  .sev-medium { background:rgba(245,165,36,.15); color:var(--medium); }
+  .sev-low { background:rgba(76,154,255,.15); color:var(--low); }
+  .charts { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  canvas { max-height:260px; }
+  .badge-tp { color:#4cc38a; } .badge-fp { color:var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <h1>AI-Powered SOC — Analyst Dashboard</h1>
+  <p>Alerts from the ML detection engine, enriched with threat intel, with SOAR playbook actions applied</p>
+</header>
+
+<div class="grid" id="summary-cards"></div>
+
+<div class="section">
+  <div class="panel charts">
+    <div>
+      <h2>Alerts by severity</h2>
+      <canvas id="severityChart"></canvas>
+    </div>
+    <div>
+      <h2>SOAR playbooks triggered</h2>
+      <canvas id="playbookChart"></canvas>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Top alerts (ranked by model confidence)</h2>
+    <table id="alertsTable">
+      <thead><tr>
+        <th>Time</th><th>Host</th><th>Src IP</th><th>Severity</th>
+        <th>RF prob.</th><th>Failed logins</th><th>Dst ports</th><th>IOC match</th><th>Ground truth</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2>Recent automated response actions</h2>
+    <table id="actionsTable">
+      <thead><tr>
+        <th>Host</th><th>Src IP</th><th>Playbook</th><th>Severity</th><th>Actions taken</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2>Model evaluation (held-out test set)</h2>
+    <table id="metricsTable">
+      <thead><tr><th>Model</th><th>Precision</th><th>Recall</th><th>F1</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+async function load() {
+  const [summary, alerts, actions] = await Promise.all([
+    fetch('/api/summary').then(r => r.json()),
+    fetch('/api/alerts').then(r => r.json()),
+    fetch('/api/actions').then(r => r.json()),
+  ]);
+
+  const cards = document.getElementById('summary-cards');
+  cards.innerHTML = `
+    <div class="card"><h3>Total alerts</h3><div class="big">${summary.total_alerts}</div></div>
+    <div class="card"><h3>High severity</h3><div class="big">${summary.severity_counts.high || 0}</div></div>
+    <div class="card"><h3>IOC matches</h3><div class="big">${summary.known_bad_matches}</div></div>
+    <div class="card"><h3>Response actions taken</h3><div class="big">${summary.total_response_actions}</div></div>
+  `;
+
+  new Chart(document.getElementById('severityChart'), {
+    type: 'doughnut',
+    data: {
+      labels: Object.keys(summary.severity_counts),
+      datasets: [{ data: Object.values(summary.severity_counts), backgroundColor: ['#e5484d','#f5a524','#4c9aff'] }]
+    },
+    options: { plugins: { legend: { labels: { color: '#e6e8ec' } } } }
+  });
+
+  new Chart(document.getElementById('playbookChart'), {
+    type: 'bar',
+    data: {
+      labels: Object.keys(summary.playbook_counts),
+      datasets: [{ label: 'Triggered', data: Object.values(summary.playbook_counts), backgroundColor: '#4c9aff' }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: { x: { ticks: { color: '#9aa2af' } }, y: { ticks: { color: '#9aa2af' } } }
+    }
+  });
+
+  const alertsBody = document.querySelector('#alertsTable tbody');
+  alerts.slice(0, 25).forEach(a => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${a.timestamp}</td><td>${a.host}</td><td>${a.src_ip}</td>
+      <td><span class="sev sev-${a.severity}">${a.severity}</span></td>
+      <td>${(a.rf_attack_probability*100).toFixed(1)}%</td>
+      <td>${a.failed_login_count}</td><td>${a.distinct_dst_ports}</td>
+      <td>${a.threat_intel.is_known_bad ? 'yes' : 'no'}</td>
+      <td>${a.true_label ? '<span class="badge-tp">attack</span>' : '<span class="badge-fp">normal</span>'}</td>
+    `;
+    alertsBody.appendChild(tr);
+  });
+
+  const actionsBody = document.querySelector('#actionsTable tbody');
+  actions.slice(0, 25).forEach(a => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${a.host}</td><td>${a.src_ip}</td><td>${a.playbook_triggered}</td>
+      <td><span class="sev sev-${a.severity}">${a.severity}</span></td>
+      <td>${a.actions.map(x => x.action).join(', ')}</td>
+    `;
+    actionsBody.appendChild(tr);
+  });
+
+  const metricsBody = document.querySelector('#metricsTable tbody');
+  Object.entries(summary.model_metrics).forEach(([name, m]) => {
+    if (!m || typeof m !== 'object' || !('precision' in m)) return;
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${name}</td><td>${(m.precision*100).toFixed(1)}%</td><td>${(m.recall*100).toFixed(1)}%</td><td>${(m.f1*100).toFixed(1)}%</td>`;
+    metricsBody.appendChild(tr);
+  });
+}
+load();
+</script>
+</body>
+</html>

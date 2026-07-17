@@ -1,0 +1,8207 @@
+[
+  {
+    "timestamp": "2026-06-03 16:36:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.249",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.57,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 351.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.249",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:41:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.38",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.569,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 235.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.38",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:01:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.55",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 367.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.55",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:51:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.90",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 273.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.90",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:21:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.95",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 244.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.95",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:21:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.188",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.569,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 289.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.188",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:51:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.200",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 291.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.200",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:41:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.246",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 209.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.246",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:01:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.249",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.569,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 228.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.249",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:31:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.172",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.57,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 366.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.172",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:21:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.145",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.568,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 444.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.145",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:26:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.150",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 291.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.150",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:16:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.162",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.566,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 234.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.162",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:05:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.66",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.589,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 423.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.66",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:46:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.136",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.568,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 474.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.136",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:46:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.145",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 385.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.145",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:06:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.142",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.568,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 439.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.142",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:31:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.166",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 444.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.166",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:21:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.101",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.584,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 479.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.101",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:11:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.109",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.583,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 451.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.109",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:05:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.121",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.583,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 446.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.121",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:11:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.102",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 323.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.102",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:26:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.114",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 353.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.114",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:55:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.97",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 371.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.97",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:00:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.82",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 255.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.82",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:10:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.208",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 227.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.208",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:15:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.28",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.589,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 453.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.28",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:40:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.179",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 284.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.179",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:30:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.11",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 254.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.11",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:45:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.80",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 239.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.80",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:50:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.69",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.589,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 397.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.69",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:00:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.41",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.591,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 295.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.41",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:35:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.74",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.581,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 279.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.74",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:15:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.238",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.582,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 338.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.238",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:46:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.250",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.584,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 481.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.250",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:00:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.200",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.581,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 272.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.200",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:21:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.7",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.591,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 364.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.7",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:25:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.214",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.582,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 295.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.214",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:10:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.147",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.59,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 291.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.147",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:51:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.229",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.583,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 449.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.229",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:16:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.145",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.591,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 308.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.145",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:25:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.9",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.59,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 260.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.9",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:05:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.31",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 430.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.31",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:25:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.90",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 319.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.90",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:30:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.18",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 350.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.18",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:20:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.221",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 362.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.221",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:35:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.175",
+    "severity": "medium",
+    "rf_attack_probability": 1.0,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 319.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.175",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:15:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.31",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 394.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.31",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:25:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.48",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 281.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.48",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:05:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.185",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 448.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.185",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:10:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.249",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 300.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.249",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:45:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.193",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 342.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.193",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:40:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.14",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 230.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.14",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:20:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.37",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 202.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.37",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:45:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.166",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.586,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 447.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.166",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:06:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.172",
+    "severity": "medium",
+    "rf_attack_probability": 0.997,
+    "iso_anomaly_score": 0.571,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 476.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.172",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:48:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.996,
+    "iso_anomaly_score": 0.693,
+    "event_count": 13,
+    "failed_login_count": 13,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:47:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.996,
+    "iso_anomaly_score": 0.693,
+    "event_count": 12,
+    "failed_login_count": 12,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:19:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.691,
+    "event_count": 12,
+    "failed_login_count": 11,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:56:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.225",
+    "severity": "medium",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.568,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 491.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.225",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:20:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.691,
+    "event_count": 8,
+    "failed_login_count": 8,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:21:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.691,
+    "event_count": 9,
+    "failed_login_count": 9,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:18:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.691,
+    "event_count": 7,
+    "failed_login_count": 7,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:52:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.717,
+    "event_count": 13,
+    "failed_login_count": 12,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:51:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.993,
+    "iso_anomaly_score": 0.717,
+    "event_count": 16,
+    "failed_login_count": 16,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:40:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.252",
+    "severity": "medium",
+    "rf_attack_probability": 0.99,
+    "iso_anomaly_score": 0.584,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 487.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.252",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:09:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.251",
+    "severity": "high",
+    "rf_attack_probability": 0.987,
+    "iso_anomaly_score": 0.641,
+    "event_count": 2,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 30457210.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.251",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:56:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.135",
+    "severity": "medium",
+    "rf_attack_probability": 0.987,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 451.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.135",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:36:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.100",
+    "severity": "medium",
+    "rf_attack_probability": 0.987,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 475.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.100",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:49:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.986,
+    "iso_anomaly_score": 0.693,
+    "event_count": 5,
+    "failed_login_count": 5,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 05:10:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "rf_attack_probability": 0.98,
+    "iso_anomaly_score": 0.713,
+    "event_count": 7,
+    "failed_login_count": 7,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.213.161",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 66,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 66,
+          "category": "scanning",
+          "notes": "Mass port scanning activity reported"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 05:12:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "rf_attack_probability": 0.98,
+    "iso_anomaly_score": 0.713,
+    "event_count": 9,
+    "failed_login_count": 9,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.213.161",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 66,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 66,
+          "category": "scanning",
+          "notes": "Mass port scanning activity reported"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 05:11:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "rf_attack_probability": 0.98,
+    "iso_anomaly_score": 0.713,
+    "event_count": 16,
+    "failed_login_count": 15,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.213.161",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 66,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 66,
+          "category": "scanning",
+          "notes": "Mass port scanning activity reported"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 14:11:00",
+    "host": "host-04",
+    "src_ip": "185.220.138.32",
+    "severity": "high",
+    "rf_attack_probability": 0.98,
+    "iso_anomaly_score": 0.566,
+    "event_count": 2,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 2,
+    "distinct_dst_ips": 2,
+    "total_bytes_out": 231.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.138.32",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 92,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 92,
+          "category": "brute_force_source",
+          "notes": "Repeated credential stuffing reported by 3 community feeds"
+        }
+      }
+    },
+    "severity_reason": "IOC match escalated severity"
+  },
+  {
+    "timestamp": "2026-06-01 05:13:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "rf_attack_probability": 0.98,
+    "iso_anomaly_score": 0.713,
+    "event_count": 8,
+    "failed_login_count": 7,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.213.161",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 66,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 66,
+          "category": "scanning",
+          "notes": "Mass port scanning activity reported"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:31:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.116",
+    "severity": "medium",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 490.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.116",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:41:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.65",
+    "severity": "medium",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.608,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 9867288.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.65",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:41:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.60",
+    "severity": "medium",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.608,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 19821794.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.60",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:41:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.177",
+    "severity": "medium",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.608,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 15824548.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.177",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 15:17:00",
+    "host": "host-07",
+    "src_ip": "185.220.250.237",
+    "severity": "medium",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.539,
+    "event_count": 53,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 53,
+    "distinct_dst_ips": 43,
+    "total_bytes_out": 5907.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.250.237",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 14:10:00",
+    "host": "host-04",
+    "src_ip": "185.220.138.32",
+    "severity": "high",
+    "rf_attack_probability": 0.977,
+    "iso_anomaly_score": 0.54,
+    "event_count": 58,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 58,
+    "distinct_dst_ips": 50,
+    "total_bytes_out": 5864.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.138.32",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 92,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 92,
+          "category": "brute_force_source",
+          "notes": "Repeated credential stuffing reported by 3 community feeds"
+        }
+      }
+    },
+    "severity_reason": "IOC match escalated severity"
+  },
+  {
+    "timestamp": "2026-06-03 05:01:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.113",
+    "severity": "medium",
+    "rf_attack_probability": 0.973,
+    "iso_anomaly_score": 0.578,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 376.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.113",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:41:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.57",
+    "severity": "medium",
+    "rf_attack_probability": 0.967,
+    "iso_anomaly_score": 0.608,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 7511199.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.57",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:41:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.145",
+    "severity": "medium",
+    "rf_attack_probability": 0.967,
+    "iso_anomaly_score": 0.608,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 8027814.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.145",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:53:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.965,
+    "iso_anomaly_score": 0.717,
+    "event_count": 5,
+    "failed_login_count": 5,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:51:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.965,
+    "iso_anomaly_score": 0.693,
+    "event_count": 5,
+    "failed_login_count": 3,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:11:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.135",
+    "severity": "medium",
+    "rf_attack_probability": 0.963,
+    "iso_anomaly_score": 0.571,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 542.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.135",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 19:47:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.184",
+    "severity": "medium",
+    "rf_attack_probability": 0.963,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 583.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.184",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:50:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.138",
+    "severity": "medium",
+    "rf_attack_probability": 0.963,
+    "iso_anomaly_score": 0.585,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 583.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.138",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:46:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.961,
+    "iso_anomaly_score": 0.693,
+    "event_count": 4,
+    "failed_login_count": 4,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:43:00",
+    "host": "host-11",
+    "src_ip": "185.220.72.117",
+    "severity": "medium",
+    "rf_attack_probability": 0.96,
+    "iso_anomaly_score": 0.552,
+    "event_count": 33,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 33,
+    "distinct_dst_ips": 32,
+    "total_bytes_out": 3128.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.72.117",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 12,
+      "raw": {
+        "mock": {
+          "malicious": false,
+          "abuse_score": 12,
+          "category": "unknown",
+          "notes": "Low-confidence, isolated report only"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:42:00",
+    "host": "host-11",
+    "src_ip": "185.220.72.117",
+    "severity": "medium",
+    "rf_attack_probability": 0.957,
+    "iso_anomaly_score": 0.554,
+    "event_count": 27,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 27,
+    "distinct_dst_ips": 27,
+    "total_bytes_out": 2487.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.72.117",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 12,
+      "raw": {
+        "mock": {
+          "malicious": false,
+          "abuse_score": 12,
+          "category": "unknown",
+          "notes": "Low-confidence, isolated report only"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:45:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.62",
+    "severity": "medium",
+    "rf_attack_probability": 0.95,
+    "iso_anomaly_score": 0.6,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 221.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.62",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:09:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.186",
+    "severity": "high",
+    "rf_attack_probability": 0.95,
+    "iso_anomaly_score": 0.64,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 17830969.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.186",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:09:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.82",
+    "severity": "high",
+    "rf_attack_probability": 0.95,
+    "iso_anomaly_score": 0.64,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 18682511.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.82",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:55:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.42",
+    "severity": "medium",
+    "rf_attack_probability": 0.95,
+    "iso_anomaly_score": 0.602,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 454.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.42",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:35:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.210",
+    "severity": "medium",
+    "rf_attack_probability": 0.943,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 552.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.210",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:20:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.198",
+    "severity": "medium",
+    "rf_attack_probability": 0.943,
+    "iso_anomaly_score": 0.588,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 577.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.198",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:09:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.67",
+    "severity": "high",
+    "rf_attack_probability": 0.94,
+    "iso_anomaly_score": 0.64,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 12429672.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.67",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 15:36:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.116",
+    "severity": "medium",
+    "rf_attack_probability": 0.933,
+    "iso_anomaly_score": 0.568,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 537.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.116",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:26:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.86",
+    "severity": "medium",
+    "rf_attack_probability": 0.933,
+    "iso_anomaly_score": 0.571,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 551.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.86",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:55:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.112",
+    "severity": "medium",
+    "rf_attack_probability": 0.903,
+    "iso_anomaly_score": 0.586,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 538.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.112",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:51:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.41",
+    "severity": "medium",
+    "rf_attack_probability": 0.896,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 574.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.41",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 15:18:00",
+    "host": "host-07",
+    "src_ip": "185.220.250.237",
+    "severity": "medium",
+    "rf_attack_probability": 0.87,
+    "iso_anomaly_score": 0.569,
+    "event_count": 7,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 7,
+    "distinct_dst_ips": 7,
+    "total_bytes_out": 661.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.250.237",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:55:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.869,
+    "iso_anomaly_score": 0.717,
+    "event_count": 3,
+    "failed_login_count": 3,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:22:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.866,
+    "iso_anomaly_score": 0.691,
+    "event_count": 3,
+    "failed_login_count": 2,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:00:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.170",
+    "severity": "medium",
+    "rf_attack_probability": 0.863,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 576.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.170",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:15:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.124",
+    "severity": "medium",
+    "rf_attack_probability": 0.846,
+    "iso_anomaly_score": 0.575,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 509.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.124",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:36:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.181",
+    "severity": "medium",
+    "rf_attack_probability": 0.843,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 579.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.181",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 16:16:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.172",
+    "severity": "medium",
+    "rf_attack_probability": 0.836,
+    "iso_anomaly_score": 0.57,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 565.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.172",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:55:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.252",
+    "severity": "medium",
+    "rf_attack_probability": 0.823,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 511.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.252",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:40:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.243",
+    "severity": "medium",
+    "rf_attack_probability": 0.806,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 540.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.243",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:25:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.62",
+    "severity": "medium",
+    "rf_attack_probability": 0.763,
+    "iso_anomaly_score": 0.589,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 514.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.62",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:55:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.123",
+    "severity": "medium",
+    "rf_attack_probability": 0.762,
+    "iso_anomaly_score": 0.584,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 524.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.123",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:56:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.12",
+    "severity": "medium",
+    "rf_attack_probability": 0.749,
+    "iso_anomaly_score": 0.575,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 546.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.12",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:51:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.97",
+    "severity": "medium",
+    "rf_attack_probability": 0.749,
+    "iso_anomaly_score": 0.602,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 572.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.97",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:41:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.218",
+    "severity": "medium",
+    "rf_attack_probability": 0.732,
+    "iso_anomaly_score": 0.567,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 534.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.218",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:40:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.169",
+    "severity": "medium",
+    "rf_attack_probability": 0.699,
+    "iso_anomaly_score": 0.584,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 571.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.169",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 05:05:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.175",
+    "severity": "medium",
+    "rf_attack_probability": 0.696,
+    "iso_anomaly_score": 0.579,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 583.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.175",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 19:40:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.34",
+    "severity": "medium",
+    "rf_attack_probability": 0.689,
+    "iso_anomaly_score": 0.586,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 521.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.34",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:30:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.120",
+    "severity": "medium",
+    "rf_attack_probability": 0.673,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 566.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.120",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:45:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.3",
+    "severity": "medium",
+    "rf_attack_probability": 0.666,
+    "iso_anomaly_score": 0.593,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 543.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.3",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 18:56:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.13",
+    "severity": "high",
+    "rf_attack_probability": 0.63,
+    "iso_anomaly_score": 0.716,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.13",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:50:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.109",
+    "severity": "high",
+    "rf_attack_probability": 0.63,
+    "iso_anomaly_score": 0.716,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.109",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 18:45:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.118",
+    "severity": "high",
+    "rf_attack_probability": 0.63,
+    "iso_anomaly_score": 0.716,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.118",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:50:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.63,
+    "iso_anomaly_score": 0.716,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 18:59:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.103",
+    "severity": "high",
+    "rf_attack_probability": 0.63,
+    "iso_anomaly_score": 0.716,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.103",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:30:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.249",
+    "severity": "medium",
+    "rf_attack_probability": 0.629,
+    "iso_anomaly_score": 0.583,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 590.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.249",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:35:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.56",
+    "severity": "medium",
+    "rf_attack_probability": 0.623,
+    "iso_anomaly_score": 0.596,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 534.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "10.0.0.56",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 09:23:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.179.109",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 78,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 78,
+          "category": "scanning",
+          "notes": "Known scanning infrastructure"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 09:14:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.173",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.173",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 09:49:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.248",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.248",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 09:23:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.119",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.119",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 09:42:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.212",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.212",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 09:47:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.178",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.178",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 09:59:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.12",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.12",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 09:45:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.17",
+    "severity": "high",
+    "rf_attack_probability": 0.62,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.17",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 18:54:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "rf_attack_probability": 0.603,
+    "iso_anomaly_score": 0.717,
+    "event_count": 2,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.51.184",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 74,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 74,
+          "category": "c2",
+          "notes": "Listed on a public C2 IP feed"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:34:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.33",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.33",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 08:41:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.189",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.189",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 08:23:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.111",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.111",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:10:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.128",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.128",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:50:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 1,
+    "threat_intel": {
+      "ip": "185.220.189.27",
+      "source": "mock",
+      "is_known_bad": true,
+      "reputation_score": 85,
+      "raw": {
+        "mock": {
+          "malicious": true,
+          "abuse_score": 85,
+          "category": "brute_force_source",
+          "notes": "Associated with SSH/RDP brute force campaigns"
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 08:51:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.8",
+    "severity": "high",
+    "rf_attack_probability": 0.602,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.8",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 23:45:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.133",
+    "severity": "medium",
+    "rf_attack_probability": 0.327,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 573.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.133",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 19:47:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.74",
+    "severity": "medium",
+    "rf_attack_probability": 0.059,
+    "iso_anomaly_score": 0.718,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.74",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 19:18:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.220",
+    "severity": "medium",
+    "rf_attack_probability": 0.059,
+    "iso_anomaly_score": 0.718,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.220",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 19:11:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.106",
+    "severity": "medium",
+    "rf_attack_probability": 0.059,
+    "iso_anomaly_score": 0.718,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.106",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 23:30:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.7",
+    "severity": "medium",
+    "rf_attack_probability": 0.003,
+    "iso_anomaly_score": 0.616,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 643.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.7",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:42:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.175",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.175",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 22:20:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.195",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.726,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.195",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 21:17:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.31",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.31",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 07:45:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.218",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.218",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:29:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.225",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.225",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:38:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.254",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.254",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 02:10:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.82",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.82",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 02:20:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.103",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.103",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:49:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.116",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.116",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:02:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.122",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.122",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 06:27:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.80",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.80",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 06:49:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.90",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.90",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 13:23:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.103",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.103",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:18:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.10",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.619,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49831.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.10",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 11:43:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.97",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.97",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:08:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.48",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.627,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49082.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.48",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 23:40:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.237",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.618,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49044.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.237",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 10:00:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.31",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.31",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:35:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.203",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.203",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:08:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.38",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.717,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.38",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:11:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.164",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.164",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:59:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.215",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.215",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 15:59:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.212",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.699,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.212",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 06:45:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.206",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.206",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 01:17:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.119",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.633,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49652.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.119",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:48:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.198",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.198",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:02:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.155",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 48900.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.155",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:01:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.19",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.19",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:52:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.217",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.717,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.217",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 17:26:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.137",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.137",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:11:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.217",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.217",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:05:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.171",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.171",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:15:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.8",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.625,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49024.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.8",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:50:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.143",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.143",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 06:04:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.161",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49960.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.161",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 20:09:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.116",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.116",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:53:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.6",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.644,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49678.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.6",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 12:06:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.176",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.176",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:07:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.51",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.649,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49966.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.51",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 20:14:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.50",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.50",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 07:56:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.48",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.48",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:01:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.201",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.201",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 04:23:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.17",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.62,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49852.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.17",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 11:16:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.129",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.129",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:44:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.26",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.26",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:09:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.28",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.28",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 23:14:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.29",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.641,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49732.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.29",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 11:54:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.193",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.193",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:11:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.29",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.29",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 13:24:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.33",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.33",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 01:44:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.68",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.623,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49303.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.68",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:19:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.74",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.631,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49255.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.74",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 21:14:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.64",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.64",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:03:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.90",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.90",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 02:04:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.197",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.197",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 11:27:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.204",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.204",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 03:15:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.157",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49543.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.157",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 12:15:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.149",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.149",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:45:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.128",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.128",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 11:48:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.121",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.121",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 06:41:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.17",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.17",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 22:20:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.118",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.625,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49940.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.118",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 13:45:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.236",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.236",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 14:22:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.248",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.248",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 10:04:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.242",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.242",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 16:05:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.104",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.709,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.104",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:28:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.61",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.61",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 07:23:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.135",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.135",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:21:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.234",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.234",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 11:36:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.225",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.225",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 13:40:00",
+    "host": "host-14",
+    "src_ip": "10.0.0.64",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.64",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 06:42:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.225",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.225",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 02:09:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.189",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.724,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.189",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 01:54:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.142",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.636,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49757.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.142",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:55:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.136",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.136",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:11:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.176",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.176",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 07:41:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.94",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.94",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 11:18:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.95",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.95",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 15:18:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.78",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.699,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.78",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 13:35:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.78",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.78",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:59:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.219",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.219",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 10:07:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.39",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.39",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:54:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.22",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.22",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 17:27:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.226",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.226",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:37:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.27",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.27",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:52:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.36",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.36",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:41:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.85",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.85",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 11:41:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.3",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.3",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:18:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.212",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.736,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.212",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 07:23:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.113",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.113",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:26:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.135",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.135",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 03:44:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.109",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49534.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.109",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:48:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.103",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.103",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:23:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.119",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.119",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 11:55:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.131",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.131",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:51:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.132",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.132",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 22:50:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.149",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.726,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.149",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:26:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.169",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.169",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:15:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.229",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.736,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.229",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 10:16:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.32",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.32",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:29:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.33",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.643,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49826.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.33",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:25:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.52",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.52",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 06:40:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.186",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.186",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:09:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.60",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.60",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 15:49:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.71",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.699,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.71",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:54:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.83",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.83",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:26:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.157",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.157",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:55:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.202",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.202",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:45:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.234",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.234",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:34:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.239",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.239",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 12:26:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.101",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.101",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:08:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.35",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.634,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49523.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.35",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 10:21:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.41",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.41",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 11:21:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.63",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.63",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 07:08:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.27",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.27",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 22:24:00",
+    "host": "host-07",
+    "src_ip": "10.0.0.126",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49547.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.126",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:01:00",
+    "host": "host-08",
+    "src_ip": "10.0.0.59",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.635,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49330.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.59",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 06:56:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.221",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.221",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 14:08:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.240",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.240",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 21:22:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.46",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.46",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 13:18:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.182",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.182",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 23:21:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.24",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.63,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49429.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.24",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 15:02:00",
+    "host": "host-17",
+    "src_ip": "10.0.0.106",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.699,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.106",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:55:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.246",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.246",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:04:00",
+    "host": "host-02",
+    "src_ip": "10.0.0.228",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.618,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 48653.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.228",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 07:13:00",
+    "host": "host-18",
+    "src_ip": "10.0.0.76",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.76",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 21:35:00",
+    "host": "host-04",
+    "src_ip": "10.0.0.114",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.114",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 12:14:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.139",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.139",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 06:48:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.189",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.189",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 12:04:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.208",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.208",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 11:32:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.71",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.71",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:40:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.208",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.208",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 12:27:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.161",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.161",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:02:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.166",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.625,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49028.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.166",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 02:54:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.194",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49383.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.194",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 20:55:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.39",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.39",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 23:46:00",
+    "host": "host-15",
+    "src_ip": "10.0.0.40",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.629,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49415.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.40",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:28:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.195",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.195",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 13:16:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.231",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.231",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:31:00",
+    "host": "host-20",
+    "src_ip": "10.0.0.44",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.44",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:24:00",
+    "host": "host-03",
+    "src_ip": "10.0.0.173",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.173",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 21:52:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.39",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.39",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:45:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.57",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.57",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 07:21:00",
+    "host": "host-19",
+    "src_ip": "10.0.0.71",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.71",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 10:25:00",
+    "host": "host-16",
+    "src_ip": "10.0.0.216",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.216",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:36:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.224",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.224",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 20:30:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.116",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.116",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 14:10:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.169",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.169",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 04:59:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.181",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.717,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.181",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:42:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.183",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.183",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:49:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.229",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.649,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49862.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.229",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:01:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.240",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.738,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.240",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:24:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.62",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.62",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 13:10:00",
+    "host": "host-12",
+    "src_ip": "10.0.0.7",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.693,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.7",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:41:00",
+    "host": "host-01",
+    "src_ip": "10.0.0.22",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.22",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:48:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.199",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.199",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 20:38:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.229",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.229",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:20:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.254",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.254",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 11:04:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.44",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.44",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 06:35:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.118",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.697,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.118",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:04:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.130",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.130",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 07:48:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.154",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.154",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:00:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.156",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.156",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 03:09:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.164",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.72,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.164",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 23:08:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.191",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.738,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.191",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:13:00",
+    "host": "host-06",
+    "src_ip": "10.0.0.2",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.2",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 10:38:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.244",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.244",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 10:52:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.248",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.248",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-04 00:07:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.251",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.251",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:10:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.42",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.616,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49000.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.42",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 11:36:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.64",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.689,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.64",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:35:00",
+    "host": "host-05",
+    "src_ip": "10.0.0.79",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.618,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 782.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.79",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:10:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.74",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.74",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 03:02:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.85",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.626,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49970.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.85",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 07:03:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.91",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.91",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 07:31:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.125",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.125",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 12:47:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.138",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.138",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 04:34:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.158",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.717,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.158",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:54:00",
+    "host": "host-11",
+    "src_ip": "10.0.0.166",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.166",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 00:46:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.98",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.98",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 21:17:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.104",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.104",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 00:44:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.143",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.143",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:09:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.226",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.226",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 17:21:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.241",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.241",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:18:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.243",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.615,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 48923.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.243",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 16:59:00",
+    "host": "host-10",
+    "src_ip": "10.0.0.32",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.709,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.32",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 00:47:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.216",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.216",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 14:23:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.58",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.58",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:10:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.203",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.203",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 21:25:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.237",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.237",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 23:17:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.242",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.625,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49309.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.242",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:45:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.247",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.247",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-01 00:11:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.28",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.639,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.28",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 17:37:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.38",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.712,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.38",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 12:35:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.48",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.692,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.48",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 07:56:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.59",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.696,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.59",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 03:02:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.11",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.625,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49831.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.11",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 14:16:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.13",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.694,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.13",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 10:54:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.140",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.69,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.140",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-02 22:20:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.189",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.616,
+    "event_count": 1,
+    "failed_login_count": 0,
+    "distinct_dst_ports": 1,
+    "distinct_dst_ips": 1,
+    "total_bytes_out": 49589.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.189",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-03 21:26:00",
+    "host": "host-13",
+    "src_ip": "10.0.0.190",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.722,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.190",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  },
+  {
+    "timestamp": "2026-06-05 03:09:00",
+    "host": "host-09",
+    "src_ip": "10.0.0.27",
+    "severity": "medium",
+    "rf_attack_probability": 0.0,
+    "iso_anomaly_score": 0.72,
+    "event_count": 1,
+    "failed_login_count": 1,
+    "distinct_dst_ports": 0,
+    "distinct_dst_ips": 0,
+    "total_bytes_out": 0.0,
+    "true_label": 0,
+    "threat_intel": {
+      "ip": "10.0.0.27",
+      "source": "mock",
+      "is_known_bad": false,
+      "reputation_score": 0,
+      "raw": {
+        "mock": {}
+      }
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "isolation_forest": {
+    "precision": 0.1506849315068493,
+    "recall": 0.2894736842105263,
+    "f1": 0.1981981981981982
+  },
+  "random_forest": {
+    "precision": 0.7777777777777778,
+    "recall": 0.9210526315789473,
+    "f1": 0.8433734939759037
+  },
+  "feature_columns": [
+    "event_count",
+    "failed_login_count",
+    "distinct_dst_ports",
+    "distinct_dst_ips",
+    "distinct_users",
+    "total_bytes_out",
+    "max_bytes_out",
+    "hour",
+    "is_weekday"
+  ],
+  "n_train": 6388,
+  "n_test": 2738,
+  "n_attack_test": 38
+}

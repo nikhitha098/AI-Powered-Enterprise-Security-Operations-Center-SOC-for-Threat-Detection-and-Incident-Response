@@ -1,0 +1,692 @@
+[
+  {
+    "alert_timestamp": "2026-06-01 08:48:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.189.27 (13 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.189.27 (13 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285139+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 08:47:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.189.27 (12 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.189.27 (12 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285145+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:19:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.179.109 (11 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.179.109 (11 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285150+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:20:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.179.109 (8 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.179.109 (8 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285156+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:21:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.179.109 (9 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.179.109 (9 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285160+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:18:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.179.109 (7 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.179.109 (7 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285163+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:52:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-01",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-01 from 185.220.51.184 (12 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-01 from 185.220.51.184 (12 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285166+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:51:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-01",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-01 from 185.220.51.184 (16 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-01 from 185.220.51.184 (16 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285169+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 08:49:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-04",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-04 from 185.220.189.27 (5 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-04 from 185.220.189.27 (5 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285181+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 05:10:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-18",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-18 from 185.220.213.161 (7 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-18 from 185.220.213.161 (7 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285184+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 05:12:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-18",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-18 from 185.220.213.161 (9 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-18 from 185.220.213.161 (9 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285187+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 05:11:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-18",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-18 from 185.220.213.161 (15 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-18 from 185.220.213.161 (15 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285190+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-05 14:11:00",
+    "host": "host-04",
+    "src_ip": "185.220.138.32",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.138.32) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.138.32) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285199+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 05:13:00",
+    "host": "host-18",
+    "src_ip": "185.220.213.161",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-18",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-18 from 185.220.213.161 (7 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-18 from 185.220.213.161 (7 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285202+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-05 15:17:00",
+    "host": "host-07",
+    "src_ip": "185.220.250.237",
+    "severity": "medium",
+    "playbook_triggered": "C_port_scan",
+    "actions": [
+      {
+        "action": "block_source_ip",
+        "target": "185.220.250.237",
+        "duration_minutes": 60,
+        "simulated_call": "Firewall.block(ip='185.220.250.237', minutes=60)",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Port scan detected from 185.220.250.237 against host-07 (53 ports)', severity='medium')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285217+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-05 14:10:00",
+    "host": "host-04",
+    "src_ip": "185.220.138.32",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.138.32) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.138.32) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285221+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:53:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "A_suspicious_login",
+    "actions": [
+      {
+        "action": "disable_user_account",
+        "target": "host-01",
+        "simulated_call": "IAM.disable_account(host=..., reason='brute_force_detected')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Suspicious login pattern on host-01 from 185.220.51.184 (5 failed attempts)', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Suspicious login pattern on host-01 from 185.220.51.184 (5 failed attempts)')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285230+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 08:51:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285234+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 08:46:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285244+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-04 10:43:00",
+    "host": "host-11",
+    "src_ip": "185.220.72.117",
+    "severity": "medium",
+    "playbook_triggered": "C_port_scan",
+    "actions": [
+      {
+        "action": "block_source_ip",
+        "target": "185.220.72.117",
+        "duration_minutes": 60,
+        "simulated_call": "Firewall.block(ip='185.220.72.117', minutes=60)",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Port scan detected from 185.220.72.117 against host-11 (33 ports)', severity='medium')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285248+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-04 10:42:00",
+    "host": "host-11",
+    "src_ip": "185.220.72.117",
+    "severity": "medium",
+    "playbook_triggered": "C_port_scan",
+    "actions": [
+      {
+        "action": "block_source_ip",
+        "target": "185.220.72.117",
+        "duration_minutes": 60,
+        "simulated_call": "Firewall.block(ip='185.220.72.117', minutes=60)",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Port scan detected from 185.220.72.117 against host-11 (27 ports)', severity='medium')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285252+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:55:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-01",
+        "simulated_call": "EDR.isolate(host='host-01')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285279+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:22:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.179.109) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.179.109) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285283+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:50:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-01",
+        "simulated_call": "EDR.isolate(host='host-01')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285325+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-03 09:23:00",
+    "host": "host-04",
+    "src_ip": "185.220.179.109",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.179.109) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.179.109) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285334+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 18:54:00",
+    "host": "host-01",
+    "src_ip": "185.220.51.184",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-01",
+        "simulated_call": "EDR.isolate(host='host-01')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-01 (src 185.220.51.184) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285351+00:00"
+  },
+  {
+    "alert_timestamp": "2026-06-01 08:50:00",
+    "host": "host-04",
+    "src_ip": "185.220.189.27",
+    "severity": "high",
+    "playbook_triggered": "B_malware_c2",
+    "actions": [
+      {
+        "action": "isolate_host",
+        "target": "host-04",
+        "simulated_call": "EDR.isolate(host='host-04')  # e.g. Wazuh active-response firewall-drop",
+        "status": "simulated_success"
+      },
+      {
+        "action": "create_ticket",
+        "simulated_call": "Ticketing.create(title='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2', severity='high')",
+        "status": "simulated_success"
+      },
+      {
+        "action": "notify_analyst",
+        "simulated_call": "Slack.post_message(channel='#soc-alerts', text='Known-bad indicator matched on host-04 (src 185.220.189.27) -- possible malware/C2')",
+        "status": "simulated_success"
+      }
+    ],
+    "executed_at": "2026-07-17T06:17:47.285362+00:00"
+  }
+]
